@@ -1,5 +1,7 @@
 # **PitchRollYaw Viewer**
 
+<img src="Anim.gif" alt="Viewer Demo" width="400"/>
+
 ## **About**
 
 This app is intended to test pitch/roll/yaw orientation calculated with an electronic board.
